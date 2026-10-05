@@ -1,1 +1,2 @@
-text
+Пример моей работы по тестированию Open API.
+https://petstore.swagger.io/
